@@ -1,0 +1,18 @@
+# ituneswebctl
+
+very simple web ui for itunes. Written because I wanted to sit on my couch with my
+kindle and play music while I read, but my macbook is on the other side of the room.
+
+## Usage
+
+FIXME: write
+
+## Installation
+
+FIXME: write
+
+## License
+
+Copyright (C) 2010 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
